@@ -1,0 +1,35 @@
+body {
+    background-color: #4d4c4c77;
+}
+
+/* Estilos para o header */
+.header {
+    background-color: #5e5d5d;
+    padding: 10px;
+    text-align: center;
+    border: solid 1px;
+    border-color: black;
+}
+
+.header a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* Estilos para o conteúdo */
+.content {
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    color: #fff;
+}
+
+/* Estilos para o rodapé */
+.footer {
+    background-color: #5e5d5d;
+    padding: 10px;
+    color: #fff;
+    text-align: right;
+    margin-top: 200px;
+}
